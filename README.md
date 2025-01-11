@@ -109,16 +109,16 @@ The system architecture includes multiple components:
 <img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.53_52462d40.jpg" alt="TryAgain" width="700"/>
 
 -  Dashboard 
-<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.52_85b8a449.jpg" alt="TryAgain"width="700" />
+<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.52_85b8a449.jpg" alt="TryAgain" width="700" />
 
 -  WebHook
-<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.55_0f17b73d.jpg" alt="TryAgain"width="700" />
+<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.55_0f17b73d.jpg" alt="TryAgain" width="700" />
 
 -  Trigger & Action 
-<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.52_535e4201.jpg" alt="TryAgain"width="700" />
+<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.52_535e4201.jpg" alt="TryAgain" width="700" />
 
 -  Zaps and Actions
-<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.53_ded0bce1.jpg" alt="TryAgain"width="700" />
+<img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.53_ded0bce1.jpg" alt="TryAgain" width="700" />
 
 
 <img src="screenshots/WhatsApp Image 2025-01-09 at 17.54.53_e25fbad7.jpg" alt="TryAgain" width="700"/>
